@@ -1,0 +1,4 @@
+Resolusi saya di tahun 2021 yang insyaallah tercapai
+- Lebih sering menggunakan Git, Github, ataupun Gitlab dalam belajar ataupun mengerjakan project
+- Perdalam Basic Javascript
+- Membuat Project dengan Vanila JS
