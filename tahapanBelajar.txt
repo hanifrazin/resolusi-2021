@@ -1,0 +1,7 @@
+Tahapan Belajar
+
+- Belajar Fundamental JS dari youtube web programming unpas
+  * Dasar 
+  * DOM
+  * Lanjutan
+- Belajar Fundamental JS dari udemy academind
