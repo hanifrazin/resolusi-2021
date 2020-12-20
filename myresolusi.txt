@@ -1,7 +1,11 @@
 Resolusi saya di tahun 2021 yang insyaallah tercapai
 - Lebih sering menggunakan Git, Github, ataupun Gitlab dalam belajar ataupun mengerjakan project
 - Perdalam Basic Javascript
+  * Variable
+  * OOP
+  * Function 
+  * ES6
 - Membuat Project dengan Vanila JS
-- Perdalam Bootstrap, Laravel, dll sebagai bagian untuk menunjang skill dalam berkarir
+- Membuat Project dengan Laravel, Bootstrap, dan jQuery
 - Belajar Vue JS
 - Membuat Project dengan Vue JS
